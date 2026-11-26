@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Zenda1997.github.io/ahmed-taha/",
-  "name": "dev-personal-portfolio",
+  "homepage": "https://mohamed-ali97.github.io/ahmed-taha/",
+  "name": "ahmed-taha-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "three": "^0.170.0",
     "@emailjs/browser": "^4.4.1",
     "@tailwindcss/vite": "^4.1.17",
     "lucide-react": "^0.556.0",
