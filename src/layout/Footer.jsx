@@ -26,7 +26,7 @@ export const Footer = () => {
             Ahmed Taha <span className="text-primary block text-lg"> Landscape Engineer .</span>
             </a>
             <p className="text-sm text-muted-foreground mt-2">
-              © {currentYear} Mohamed Ali (zenda).
+              © {currentYear} Ahmed Taha. All rights reserved.
             </p>
           </div>
 
